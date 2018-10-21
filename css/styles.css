@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --main-font: Arial, sans-serif;
+}
+
+html, body {
+  height: 100%;
+  font-family: var(--main-font);
+  text-align: center;
+}
+
